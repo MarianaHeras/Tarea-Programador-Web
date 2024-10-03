@@ -1,0 +1,45 @@
+h1,
+h2 {
+    font-family: 'Alfa Slab One', cursive;
+}
+
+.hero {
+    background: url(../img/masajes4.jpg) no-repeat;
+    background-size: cover;
+    height: 48vh;
+    min-height: 500px;
+    color: violet;
+}
+
+footer {
+    background-color: darkmagenta;
+}
+
+h2 {
+    color: violet;
+}
+
+
+
+
+
+
+.lista-novedades {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.lista-novedades li {
+    margin: 4px;
+}
+
+.lista-novedades li a {
+    background-color: lightpink;
+    font-family: 'Alfa Slab One', cursive;
+    text-decoration: none;
+    font: size 1.2rem;
+    color: purple;
+    transition: all 2.s ease-in-out;
+    display: block;
+}
